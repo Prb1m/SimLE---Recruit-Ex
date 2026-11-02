@@ -12,8 +12,8 @@ cd repository
 ## Uruchomienie
 
 ```bash
-# g++ -std=c++17 main.cpp -o program
-# ./program
+g++ -std=c++17 main.cpp -o program
+./program
 ```
 
 ## Funkcje
@@ -30,4 +30,4 @@ Pomijając funkcje w programie przykładowym dodano
 - TelemetryBlackBox.cpp - plik klasy czarnej skrzynki
 - main.cpp - plik zawierający testy oraz wywołanie testów w pętli
 
-pliku pdf zadania rekrutacyjnego, aby uszanować prawa autorskie
+Pliku pdf zadania rekrutacyjnego, aby uszanować prawa autorskie.
