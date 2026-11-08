@@ -67,6 +67,4 @@ public:
     uint32_t getLastDataframe () ;
 
     uint32_t recordWithBadXor () ;
-
-    uint32_t recordClean () ;
 };
